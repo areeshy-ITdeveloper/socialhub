@@ -54,4 +54,4 @@
 
 **Areesha Asmat**
 * **GitHub:** [@areeshy-ITdeveloper](https://github.com/areeshy-ITdeveloper)
-* **Live Demo:** [https://areeshy-ITdeveloper.github.io/socialhub/](https://areeshy-ITdeveloper.github.io/socialhub/)
+* **Live Demo:** (https://areeshy-itdeveloper.github.io/socialhub/)
