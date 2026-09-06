@@ -3,7 +3,15 @@
 > A dynamic, interactive React application designed to streamline multi-platform social media scheduling and campaign planning.
 
 ---
+### 📸 App Screenshots
 
+| Month View | Week View |
+| :---: | :---: |
+| ![Month View](./src/assets/Calendar-monthview.png) | ![Week View](./src/assets/Calendar-weekview.png) |
+
+| Create Post Modal | Unscheduled Drafts |
+| :---: | :---: |
+| ![Create Post](./src/assets/Calendar-createpost.png) | ![Drafts](./src/assets/Calendar-draft.png) |
 ## 📌 Problem Statement & Solution
 
 * **Problem Statement:** Marketing teams and content creators struggle with fragmented social media schedules across multiple platforms (LinkedIn, Twitter, Instagram, Facebook, TikTok). Managing dates manually often leads to missed posting deadlines, disjointed campaigns, and inefficient content organization.
